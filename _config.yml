@@ -33,7 +33,7 @@ github:
   is_project_page: false
   is_user_page: false
 
-logo: images/logo.jpg
+logo: images/logo.png
 
 # Build settings
 markdown: kramdown
