@@ -20,21 +20,19 @@ Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a
 - <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>
 - <a href="https://modemat.epn.edu.ec/~jcdelosreyes/">Juan Carlos de los Reyes</a>
 - <a href="https://www.cs.purdue.edu/homes/pdrineas/">Petros Drineas</a>
-- <a href="https://www.boisestate.edu/computing/jodi-mead/">Jodi Mead</a>
 - <a href="https://search.asu.edu/profile/85017">Rosemary Renaut</a>
 - <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>
 
 ## Important dates
 
-<p>XXX 2024: Application deadline for early-career travel support</p>
-<p>XXX 2024: Registration deadline</p>
+<p>February 16, 2024: Application deadline for early-career travel support</p>
+<p>February 16, 2024: Registration deadline</p>
 <p>22 July - 2 August 2024: Summer school dates</p>
 <p>XXX August 2024: Banquet</p>
 
-## Conference program
+## Summer School program
 
-The conference will begin on the morning of 14 August and end at lunchtime on 17 August. The full conference program can be found here: 
-<a href="TrefethenRetirementConference.pdf">Open Full Conference Program</a>.
+The Summer School will begin on the morning of 22 July and end on the 2 August 2024. The full program will be put here nearer the time. 
 
 ## Applications
 
