@@ -1,1 +1,1 @@
-Webpage: https://G2S3_2024.github.io/
+Webpage: https://g2s32024.github.io/
